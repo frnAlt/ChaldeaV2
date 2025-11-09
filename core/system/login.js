@@ -44,7 +44,7 @@ export const login = () => {
 
   if (ownerIds.length) {
     const dmText =
-      `*🤖  Chaldea Telegram Bot Startup Complete*\n` +
+      `*🤖  Baka-chan Telegram Bot Startup Complete*\n` +
       `• *Instances:* ${bots.length}\n` +
       `• *Time:* ${startTime} (${timeZone})\n` +
       `• *Status:* All systems operational ✅`;
