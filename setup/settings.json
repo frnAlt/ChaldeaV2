@@ -1,10 +1,10 @@
 {
   "devMode": true,
   "ownerOnly": false,
-  "timeZone": "Asia/Manila",
-  "prefix": "/",
+  "timeZone": "Asia/Dhaka",
+  "prefix": "!",
   "symbols": "●",
   "owner": [
-    "<your_user_id>"
+    "5836861332"
   ]
 }
